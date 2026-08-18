@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KhaledEzzet.github.io/snippets-qg4uzx/sitemap.xml
